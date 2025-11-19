@@ -1,3 +1,14 @@
+To-Do list
+
+[ ] Refactor code
+
+[ ] Update README.md with visual results (screenshots) and comparison charts.
+
+[ ] Create requirements.txt
+
+[ ] Complete the final experiment and gather all necessary data.
+
+
 # Comparative Analysis of Image Interpolation Methods
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
